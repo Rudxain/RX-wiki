@@ -14,7 +14,7 @@ Now suppose Carl says "It's **truly-random** intervals". This claim is **complet
 
 They argue for minutes, almost 1 hour, and nobody wants to admit they're wrong. Finally, they all go home, ignoring what everyone said.
 
-All of their claims can be easily reduced to **empty statements**. In logic, every empty-statement has a negation that's "just as plausible" as the original, rendering both claims **useless** when it comes to explaining reality.
+All 3 of their claims can be easily reduced to **empty statements**. Those claims are **data that doesn't hold information**. In logic, every empty-statement has a negation that's "just as plausible" as the original, rendering both claims **useless** when it comes to explaining reality.
 
 ## See also
 - [FSM](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)

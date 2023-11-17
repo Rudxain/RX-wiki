@@ -18,3 +18,6 @@ All of their claims can be easily reduced to **empty statements**. In logic, eve
 
 ## See also
 - [FSM](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
+- [Dogma](https://en.wikipedia.org/wiki/Dogma)
+- [Axiom](https://en.wikipedia.org/wiki/Axiom)
+

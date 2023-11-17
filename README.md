@@ -12,7 +12,7 @@ It has all the features you'd expect from such a hybrid.
 I created this Wiki because I'm tired of clarifying stuff for people that aren't in "my circle", so now I can simply refer to any article here to delegate the job of explaining something.
 
 ## Disclaimer
-This **isn't Urban Dictionary, nor a Fandom/Wikia competitor.** This is *its own thing*.
+This **isn't [UD](urbandictionary.com), nor a Fandom/Wikia competitor.** This is *its own thing*.
 
 The only allowed articles here, are the ones that explain stuff about me or my content (any multi-media, including text and programs). I don't have time nor cognitive-bandwidth to deal with 3rd-party (or broad-party) terms.
 

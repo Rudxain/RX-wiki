@@ -1,3 +1,3 @@
-- [Griznoz](./Griznoz)
-- [Graphic Arithmetic](./Graphic%20Arithmetic)
-- [SDaW](./Silence%20Disguised%20as%20Words)
+- [Griznoz](./Griznoz.md)
+- [Graphic Arithmetic](./Graphic%20Arithmetic.md)
+- [SDaW](./Silence%20Disguised%20as%20Words.md)

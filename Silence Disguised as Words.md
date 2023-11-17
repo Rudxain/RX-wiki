@@ -1,5 +1,5 @@
 # _Silence Disguised as Words_
-Is a phrase I commonly use to point out the uselessness of un[falsifiable](https://en.wikipedia.org/wiki/Falsifiability) claims.
+AKA *"Silence Disguised as Information"*, is a phrase I commonly use to point out the uselessness of un[falsifiable](https://en.wikipedia.org/wiki/Falsifiability) claims.
 
 Depending on tone and context, it can be considered [derogatory](https://en.wikipedia.org/wiki/Pejorative), as it can be used to mock/call-out people for talking [BS](https://en.wikipedia.org/wiki/Bullshit).
 

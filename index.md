@@ -1,3 +1,3 @@
-# [📂Directory](./wiki)
+# [📂Directory](wiki)
 
-# [ℹ️About](https://github.com/Rudxain/RX-wiki/blob/main/README.md)
+# [ℹ️About](README.md)

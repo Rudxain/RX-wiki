@@ -4,3 +4,4 @@
 - [Phoenix Buster](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
 - [Graphic Arithmetic](Graphic_Arithmetic.md)
 - [SDaW](Silence_Disguised_as_Words.md)
+- [Straw-god](Straw_god.md)

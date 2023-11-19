@@ -9,3 +9,5 @@ Is a fanon special attack that can be performed by [_**Defrosted Berdly**_](Berd
   future DR chapters may bring back Berdly, **even after Snowgrave**. Snowgrave is supposed to be a ["fatal"](https://deltarune.fandom.com/wiki/Snowgrave_Route#Differences) spell, but we don't know exactly how.
 
 </details>
+
+This attack is heavily-inspired by [Susie's Attacks](https://deltarune.fandom.com/wiki/Susie#In_Battle)

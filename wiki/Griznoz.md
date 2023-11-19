@@ -12,7 +12,7 @@ I remember I was in class with some friends, circa 2017, and the teacher said so
 ## Examples of use
 - Griznos Car Insurance
 - Grisnoz Restaurant
-- "That one guy named Griznoz". This should be interpreted as a reference to [Bear_Grillz](https://en.wikipedia.org/wiki/Bear_Grillz) or [Bear_Grylls](https://en.wikipedia.org/wiki/Bear_Grylls), depending on context.
+- "That one guy named Griznoz". This should be interpreted as a reference to [Bear Grillz](https://en.wikipedia.org/wiki/Bear_Grillz) or [Bear Grylls](https://en.wikipedia.org/wiki/Bear_Grylls), depending on context.
 
 ## Spellings
 As you can see from the previous section, there's 3 alternate spellings (total 4), since any of the "s"s and "z"s are interchangeable.

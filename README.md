@@ -1,4 +1,8 @@
 # RXW
+## 📂Directory
+[Wiki Index](wiki)
+
+## ℹ️About
 This is a mixed-language hybrid between encyclopedia, dictionary, and glossary.
 
 ## Purposes

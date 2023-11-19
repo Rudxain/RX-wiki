@@ -18,4 +18,5 @@ I remember I was in class with some friends, circa 2017, and the teacher said so
 As you can see from the previous section, there's 3 alternate spellings (total 4), since any of the "s"s and "z"s are interchangeable.
 
 ## See also
+- [Vaina](https://wikidominicana.com/vaina) ([dialecto de RD](https://es.wikipedia.org/wiki/Espa%C3%B1ol_dominicano))
 - [pushin' 🅿️](https://en.m.wikipedia.org/wiki/Pushin_P)

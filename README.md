@@ -18,7 +18,7 @@ I created this Wiki because I'm tired of clarifying stuff for people that aren't
 ## Disclaimer
 This **isn't [UD](https://urbandictionary.com), nor a Fandom/Wikia competitor.** This is *its own thing*.
 
-The only allowed articles here, are the ones that explain stuff about me or my content (any multi-media, including text and programs). I don't have time nor cognitive-bandwidth to deal with 3rd-party (or [BP](wiki/Broad-party.md) terms.
+The only allowed articles here, are the ones that explain stuff about me or my content (any multi-media, including text and programs). I don't have time nor cognitive-bandwidth to deal with 3rd-party/[BP](wiki/Broad-party.md) terms.
 
 ## CONTRIBUTING
 **DON'T** 🗿

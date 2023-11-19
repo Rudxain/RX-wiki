@@ -3,6 +3,8 @@
 
 # _Berdly The Defrosted_
 ![BTD battle sprite (animated). His heart (soul) is literally beating with determination. His eyes are "on fire". His halberd has a shiny eye. Overall,  everything about him looks frosted.](https://i.redd.it/spmvj3ja64s71.gif)
+> Battle sprite by [u/IAmABlubfiss](https://reddit.com/u/IAmABlubfiss)
+
 Is a fanon transformation of [Berdly](https://deltarune.fandom.com/wiki/Berdly), created by the [DR](https://en.wikipedia.org/wiki/Deltarune) community/fandom.
 
 The transformation itself and its design, are both heavily inspired by [UTU](https://undertale.fandom.com/wiki/Undyne#Genocide_Route)

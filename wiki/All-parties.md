@@ -7,4 +7,4 @@ Refers to literally everyone, usually with respect to property/possession.
 - Air, everyone breaths it, nobody owns it
 
 ## See also
-- [Broad-party](./Broad-party)
+- [Broad-party](Broad-party.md)

@@ -1,4 +1,4 @@
-> WARNING: this article is bound to be deleted, after a good 3rd-party source is found.
+> ⚠️WARNING: this article is bound to be deleted, after a good 3rd-party source is found.
 > I only included it here, for further context about [PB](Phoenix_Buster.md)
 
 # _Berdly The Defrosted_

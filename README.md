@@ -6,14 +6,11 @@
 This is a mixed-language hybrid between encyclopedia, dictionary, and glossary.
 
 ## Purposes
-- Define made-up words (dictionary)
+- Define my made-up words (dictionary)
 - Disambiguate acronyms (glossary)
 - Explain objects/concepts in-depth (encyclopedia).
 
 It has all the features you'd expect from such a hybrid, except a search-engine, I'm sorry :(
-
-## Why?
-I created this Wiki because I'm tired of clarifying stuff for people that aren't in "my circle", so now I can simply refer to any article here to delegate the job of explaining something.
 
 ## Disclaimer
 This **isn't [UD](https://urbandictionary.com), nor a Fandom/Wikia competitor.** This is *its own thing*.

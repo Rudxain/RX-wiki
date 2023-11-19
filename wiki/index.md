@@ -1,6 +1,6 @@
 - [All-parties](All-parties.md)
 - [Broad-party](Broad-party.md)
 - [Griznoz](Griznoz.md)
-- [Phoenix Buster](Phoenix%20Buster.md)
-- [Graphic Arithmetic](Graphic%20Arithmetic.md)
-- [SDaW](Silence%20Disguised%20as%20Words.md)
+- [Phoenix Buster](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
+- [Graphic Arithmetic](Graphic_Arithmetic.md)
+- [SDaW](Silence_Disguised_as_Words.md)

@@ -1,5 +1,5 @@
 > WARNING: this article is bound to be deleted, after a good 3rd-party source is found.
-> I only included it here, for further context about [PB](./Phoenix%20Buster.md)
+> I only included it here, for further context about [PB](Phoenix_Buster.md)
 
 # _Berdly The Defrosted_
 ![BTD battle sprite (animated). His heart (soul) is literally beating with determination. His eyes are "on fire". His halberd has a shiny eye. Overall,  everything about him looks frosted.](https://i.redd.it/spmvj3ja64s71.gif)

@@ -1,7 +1,8 @@
-- [All-parties](All-parties.md)
-- [Broad-party](Broad-party.md)
+- [*P](All-parties.md)
+- [BP](Broad-party.md)
+- [MH](Minority-Human.md)
 - [Griznoz](Griznoz.md)
-- [Phoenix Buster](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
-- [Graphic Arithmetic](Graphic_Arithmetic.md)
+- [PB](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
+- [GA](Graphic_Arithmetic.md)
 - [SDaW](Silence_Disguised_as_Words.md)
-- [Straw-god](Straw_god.md)
+- [SG](Straw_god.md)

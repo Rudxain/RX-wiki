@@ -5,4 +5,5 @@
 - [PB](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
 - [GA](Graphic_Arithmetic.md)
 - [SDaW](Silence_Disguised_as_Words.md)
+- [CPPDx](Calpas_Paradox.md)
 - [SG](Straw_god.md)

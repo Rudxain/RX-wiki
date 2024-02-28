@@ -6,6 +6,7 @@ Despite liking almost anything, and being apathic to everything else, there's st
 
 > [!warning]
 > **NOTICE**
+> 
 > Keep in mind I don't necessarily hate the people that belong to these. *"Respect people, not concepts"*. I can despise a group, but I have the empathy to understand that some people are forced to work/be there. Other people may simply belong there because they're too ignorant to see the flaws.
 
 > [!note]

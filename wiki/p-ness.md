@@ -1,5 +1,5 @@
 # $`P`$-ness
-The "$`p`$-ness of $r \in \mathbb {Q}$" is defined as $\frac {n} {s - n}$, where $s$ is the sum of all exponents in the [canonical form](https://oeis.org/wiki/Prime_factorization#Canonical_prime_factorization) of $|r|$, and $p^n$ is the corresponding term in such canonical form.
+The "$`p`$-ness of $r \in \mathbb {Q}$" is defined as $\frac {n} {s - n}$, where $s$ is the sum of all exponents in the [canonical form](https://oeis.org/wiki/Prime_factorization#Canonical_prime_factorization) of $|r|$, and $p^n$ is the corresponding term in such canonical form ($n=0$ if the term isn't present).
 
 ## Examples
 - the 2-ness (AKA "even-ness") of ±2 is 1, because 2=2^1 and 1/1=1

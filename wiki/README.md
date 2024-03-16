@@ -3,6 +3,7 @@
 - [MH](Minority-Human.md)
 - [Griznoz](Griznoz.md)
 - [PB](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
+- [`P`-ness](p-ness.md)
 - [GA](Graphic_Arithmetic.md)
 - [SDaW](Silence_Disguised_as_Words.md)
 - [CPPDx](Calpas_Paradox.md)

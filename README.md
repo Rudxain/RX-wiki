@@ -26,5 +26,5 @@ Nah, just kidding 🤡
 
 Edits to existing articles are welcome!
 
-However, you should only propose new articles if I forgot to explain something that's *"uniquely-tied to me"*. It doesn't *have* to be extremely unique, just something that's related-enough. For example [SDaW](wiki/Silence%20Disguised%20as%20Words.md) is public-domain (and I'm not the 1st to coin a similar phrase), but I use it *very-frequently*, and I invented **my own example.**
+However, you should only propose new articles if I forgot to explain something that's *"uniquely-tied to me"*. It doesn't *have* to be extremely unique, just something that's related-enough. For example [SDaW](wiki/Silence%20Disguised%20as%20Words.md) is public-domain (and I'm not the 1st to coin a similar phrase), but *I use it relatively frequently*, and I invented **my own example.**
 

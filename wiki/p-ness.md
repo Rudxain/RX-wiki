@@ -1,5 +1,5 @@
 # `P`-ness
-The "`p`-ness of `r`" is defined as `n / (s+1)`, where `n` is the exponent of `p`, and `s` is the sum of all absolute exponents in the prime factorization of `r` (excluding `n`).
+The "`p`-ness of `r`" is defined as `n / s`, where `p^n = q` (for some [don't-care](https://en.wikipedia.org/wiki/Don%27t-care_term) `q`), and `s` is the sum of all exponents in the [canonical form](https://oeis.org/wiki/Prime_factorization#Canonical_prime_factorization) of `r` (excluding `n`).
 `r` must be rational, otherwise the p-ness is undefined.
 
 ## Examples

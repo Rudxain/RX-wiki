@@ -1,6 +1,5 @@
-# `P`-ness
-The "`p`-ness of `r`" is defined as `n / s`, where `p^n = q` (for some [don't-care](https://en.wikipedia.org/wiki/Don%27t-care_term) `q`), and `s` is the sum of all exponents in the [canonical form](https://oeis.org/wiki/Prime_factorization#Canonical_prime_factorization) of `|r|` (excluding `n`).
-`r` must be rational, otherwise the p-ness is undefined.
+# $`P`$-ness
+The "$`p`$-ness of $r$" is defined as $n \div s$, where $`p^n = q`$ (for some [don't-care](https://en.wikipedia.org/wiki/Don%27t-care_term) $`q`$), and $s$ is the sum of all exponents in the [canonical form](https://oeis.org/wiki/Prime_factorization#Canonical_prime_factorization) of $`|r| \in \mathbb {Q}`$ (excluding $n$)
 
 ## Examples
 - the 2-ness (AKA "even-ness") of ±2 is 1, because 2=2^1 and 1/1=1

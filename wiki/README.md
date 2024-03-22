@@ -6,6 +6,7 @@
 - [`P`-ness](p-ness.md)
 - [BCR](Base-Coded_Radix.md)
 - [GA](Graphic_Arithmetic.md)
+- [GPE](Gold_Pickaxe_Effect.md)
 - [SDaW](Silence_Disguised_as_Words.md)
 - [CPPDx](Calpas_Paradox.md)
 - [SG](Straw_god.md)

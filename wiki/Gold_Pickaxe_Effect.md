@@ -1,9 +1,8 @@
 # Gold Pickaxe Effect
-You probably know that Minecraft gold pickaxes have the worst durability ever. But did you know their durability-points are the same as wooden pickaxes?
+This psychological illusion (and sometimes fallacy) consists of believing that something has a shorter capacity than other thing, just because it has a shorter lifetime.
 
-This happens just because gold pickaxes have the best efficiency (with some caveats).
-
-This "illusion" is what I call, "The Gold Pickaxe Effect" (GPE for short).
+## History
+The term was inspired by Minecraft gold pickaxes, whose durability-points are equal to wooden pickaxes, yet people think gold tools are less durable than wood ones, simply because gold has the best efficiency.
 
 ## Examples
 This effect arises in places other than MC:

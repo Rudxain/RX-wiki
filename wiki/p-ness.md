@@ -1,4 +1,4 @@
-# $`P`$-ness
+# `P`-ness
 The "`p`-ness" of `r` ∈ ℚ is defined as `|n| / (s - |n| + 1)`, where `s` is the sum of all absolute exponents in the [canonical form](https://oeis.org/wiki/Prime_factorization#Canonical_prime_factorization) of `|r|`, and `p^n` is the corresponding term in such canonical form (`n=0` if the term isn't present).
 
 ## Examples

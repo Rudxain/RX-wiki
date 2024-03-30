@@ -10,4 +10,4 @@ The "`p`-ness" of `r` ∈ ℚ is defined as `|n| / (s - |n| + 1)`, where `s` is 
 - 3-ness of ±192 is 1/7, because 192 = 2^6 ⋅ 3^1 and 1/(6+1) = 1/7
 
 ## Name
-"p-ness" has similar pronunciation to "penis" in english, and (coincidentally) "penes" in spanish. This was unintentional, but now it's intentional, because "funi"
+"p-ness" has similar pronunciation to "penis" in english, and (coincidentally) "penes" in español. This was unintentional, but now it's intentional, because "funi"

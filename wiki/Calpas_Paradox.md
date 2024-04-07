@@ -2,7 +2,7 @@
 A word-play on [Pascal's Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager), it consists on the fact that **having faith is the most heretic thing to do.**
 
 ## Explanation
-Faith is blind and deaf. People with faith are so convinced of their beliefs, that they have the delusion that their beliefs are facts, regardless of what "God's Reality" objectively states.
+Faith is blind and deaf. People with faith are so convinced of their beliefs, that they have the delusion ([or is it?](https://www.theguardian.com/science/brain-flapping/2017/sep/21/why-religious-belief-isnt-a-delusion-in-psychological-terms-at-least) _[[Vsauce music](https://youtu.be/TN25ghkfgQA) plays]_) that their beliefs are facts, regardless of what "God's Reality" objectively states.
 
 Faithful people **don't care about the things they put their faith on**, they only care about the beliefs themselves. This implies faithful people **don't care about any deity**, they only care about their [personal god](https://youtu.be/-j8ZMMuu7MU)(alt: "The Real God: An Epiphany" by `@DarkMatter2525`).
 

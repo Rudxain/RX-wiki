@@ -5,6 +5,7 @@
 - [Phoenix Buster](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
 - [CPU EsoGov List](List_of_CPU_Eso-Governors.md)
 - [Rosetta-like](Rosetta-like.md)
+- [Palindromes](Types_of_palindrome.md)
 - [`P`-ness](p-ness.md)
 - [BCR](Base-Coded_Radix.md)
 - [Non-Math Arithmetic](Graphic_Arithmetic.md)

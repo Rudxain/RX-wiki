@@ -33,6 +33,7 @@ const eq = <T,>(a: T[], b: T[]) =>
 
 const is_p = <T,>(ls: T[]) => eq(ls, ls.toReversed())
 
+// notice that only 1 of 2 possible concats is checked
 const co_p = <T,>(a: T[], b: T[]) => is_p(a.concat(b))
 ```
 

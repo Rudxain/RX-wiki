@@ -17,7 +17,7 @@ There are 2 sub-types, explained below...
 ### Isometric Co-P
 Is a pair where each string has the same length. Example: "abcd" & "dcba" become "abcddcba" or "dcbaabcd", which are both Ps, so the original pair is SCP.
 
-> I'm unsure if it's possible to construct a ICP where only 1 of the 2 possible concats is P. This is an open question, can you prove/disprove it?
+> I'm unsure if it's possible to construct an ICP where only 1 of the 2 possible concats is P. This is an open question, can you prove/disprove it?
 
 ### Anisometric Co-P
 Is a pair where each string has different lengths. Example: "abc" & "ddcba" become "abcddcba" or "ddcbaabc", such that only the former is P, therefore the original pair is ACP.

@@ -26,3 +26,6 @@ const
 const abs_ratio = <T extends numeric,>(x: T, y: T) =>
 	(max(abs(x), abs(y)) / min(abs(x), abs(y))) as T
 ```
+
+## See also
+[Rust `lib`](https://github.com/Rudxain/abs_ratio/blob/main/src/lib.rs)

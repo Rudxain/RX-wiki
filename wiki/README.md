@@ -10,6 +10,7 @@
 - [BCR](Base-Coded_Radix.md)
 - [Non-Math Arithmetic](Graphic_Arithmetic.md)
 - [Gold Pickaxe Effect](Gold_Pickaxe_Effect.md)
+- [Dissolution of Logic](Dissolution_of_Logic.md)
 - [SDaW](Silence_Disguised_as_Words.md)
 - [Calpas Paradox](Calpas_Paradox.md)
 - [Straw-god](Straw_god.md)

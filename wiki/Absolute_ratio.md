@@ -21,7 +21,7 @@ const
 	min = <T extends numeric,>(x: T, y: T) =>
 		x > y ? y : x,
 	abs = <T extends numeric,>(x: T) =>
-		(x < 0 ? -x : x) as T
+		x < 0 ? -x as T : x
 
 const abs_ratio = <T extends numeric,>(x: T, y: T) =>
 	(max(abs(x), abs(y)) / min(abs(x), abs(y))) as T

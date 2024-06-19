@@ -31,6 +31,9 @@ const
 
 const abs_ratio = <T extends numeric,>(x: T, y: T) =>
 	(max(abs(x), abs(y)) / min(abs(x), abs(y))) as T
+
+// as of TS v5, those type-asserts are necessary:
+// https://github.com/microsoft/TypeScript/issues/49558#issuecomment-2177373544
 ```
 
 ## See also

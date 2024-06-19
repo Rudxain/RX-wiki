@@ -4,7 +4,7 @@
 - [Griznoz](Griznoz.md)
 - [Phoenix Buster](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
 - [CPU EsoGov List](List_of_CPU_Eso-Governors.md)
-- [Rosetta-like](Rosetta-like.md)
+- [Rosettoid](Rosetta-like.md)
 - [Palindromes](Types_of_palindrome.md)
 - [`abs` quotient](Absolute_ratio.md)
 - [`P`-ness](p-ness.md)

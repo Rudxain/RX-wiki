@@ -4,7 +4,7 @@ Is a fictional character whose "superpower" is to **belong to every marginalized
 This superpower causes MH to "evolve" depending on present-day cultural factors.
 
 ## Traits
-As of year 2023, some known characteristics of MH are:
+As of year 2024, some known characteristics of MH are:
 
 - dark-skinned
 - woman
@@ -12,7 +12,6 @@ As of year 2023, some known characteristics of MH are:
 - autistic
 - atheist
 - night owl
-- nerd
 - etc...
 
 ## History
@@ -20,3 +19,6 @@ I just invented the character as a joke, but I think it may be entertaining/inte
 
 ## Story
 There is no story, back-story, or character development. MH is a "regular" non-average human
+
+## Disclaimer
+This is **not meant to mock** minorities. It's just a silly joke about excessive marketing woke-ness in media
